@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄Silence make big money.
+- 😄Silence makes big money.
 
 <!--
 **fuguiw/fuguiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
